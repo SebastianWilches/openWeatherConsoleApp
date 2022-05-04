@@ -1,0 +1,22 @@
+{
+  "name": "4-openweatherapp",
+  "version": "1.0.0",
+  "description": "Aplicación que usara MapBox y OpenWeather para dar el clima de un lugar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "Mapbox",
+    "OpenWeather",
+    "Node"
+  ],
+  "author": "Sebastian Wilches",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.4"
+  }
+}
